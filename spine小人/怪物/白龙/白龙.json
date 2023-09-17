@@ -1,0 +1,52 @@
+{ "skeleton": { "images": "E:/修勾工作室/立绘/spine小人/怪物/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "尾巴", "bone": "root", "attachment": "尾巴" },
+	{ "name": "后腿后", "bone": "root", "attachment": "后腿后" },
+	{ "name": "前腿后", "bone": "root", "attachment": "前腿后" },
+	{ "name": "身体", "bone": "root", "attachment": "身体" },
+	{ "name": "下颚", "bone": "root", "attachment": "下颚" },
+	{ "name": "翅膀内", "bone": "root", "attachment": "翅膀内" },
+	{ "name": "头", "bone": "root", "attachment": "头" },
+	{ "name": "翅膀外", "bone": "root", "attachment": "翅膀外" },
+	{ "name": "后腿外", "bone": "root", "attachment": "后腿外" },
+	{ "name": "前腿外", "bone": "root", "attachment": "前腿外" }
+],
+"skins": {
+	"default": {
+		"尾巴": {
+			"尾巴": { "x": 1330, "y": -555.5, "width": 668, "height": 889 }
+		},
+		"后腿后": {
+			"后腿后": { "x": 835, "y": -804.5, "width": 298, "height": 387 }
+		},
+		"前腿后": {
+			"前腿后": { "x": 441.5, "y": -737, "width": 251, "height": 522 }
+		},
+		"身体": {
+			"身体": { "x": 920, "y": -729, "width": 1496, "height": 540 }
+		},
+		"下颚": {
+			"下颚": { "x": 172.5, "y": -683, "width": 243, "height": 138 }
+		},
+		"翅膀内": {
+			"翅膀内": { "x": 1008.5, "y": -576, "width": 1131, "height": 600 }
+		},
+		"头": {
+			"头": { "x": 188, "y": -623.5, "width": 288, "height": 231 }
+		},
+		"翅膀外": {
+			"翅膀外": { "x": 1176.5, "y": -500.5, "width": 1271, "height": 569 }
+		},
+		"后腿外": {
+			"后腿外": { "x": 961, "y": -804.5, "width": 298, "height": 387 }
+		},
+		"前腿外": {
+			"前腿外": { "x": 567.5, "y": -737, "width": 251, "height": 522 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}
