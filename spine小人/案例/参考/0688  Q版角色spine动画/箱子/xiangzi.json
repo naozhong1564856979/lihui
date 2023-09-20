@@ -1,0 +1,32 @@
+{ "skeleton": { "images": "D:/Day day study/Spine示例/Q版角色动画/箱子/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "图层 2", "bone": "root" },
+	{ "name": "图层 1", "bone": "root" },
+	{ "name": "zhandoushengli03", "bone": "root", "attachment": "zhandoushengli03" },
+	{ "name": "gaizi", "bone": "root", "attachment": "gaizi" },
+	{ "name": "dizuo", "bone": "root", "attachment": "dizuo" }
+],
+"skins": {
+	"default": {
+		"图层 2": {
+			"图层 2": { "x": 260.5, "y": -62.5, "width": 523, "height": 127 }
+		},
+		"图层 1": {
+			"图层 1": { "x": 260.5, "y": -63, "width": 519, "height": 122 }
+		},
+		"zhandoushengli03": {
+			"zhandoushengli03": { "x": 115, "y": -62.5, "width": 228, "height": 121 }
+		},
+		"gaizi": {
+			"gaizi": { "x": 304, "y": -74.5, "width": 150, "height": 99 }
+		},
+		"dizuo": {
+			"dizuo": { "x": 449, "y": -76, "width": 142, "height": 96 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

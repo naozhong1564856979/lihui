@@ -1,0 +1,153 @@
+
+45013.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: false
+  xy: 2, 62
+  size: 215, 192
+  orig: 220, 198
+  offset: 1, 0
+  index: -1
+ty
+  rotate: false
+  xy: 362, 164
+  size: 174, 90
+  orig: 174, 90
+  offset: 0, 0
+  index: -1
+xwr_gj
+  rotate: true
+  xy: 672, 131
+  size: 24, 49
+  orig: 26, 51
+  offset: 1, 1
+  index: -1
+xwr_lerd
+  rotate: false
+  xy: 907, 174
+  size: 29, 25
+  orig: 31, 27
+  offset: 1, 1
+  index: -1
+xwr_lguajian
+  rotate: true
+  xy: 413, 134
+  size: 28, 46
+  orig: 30, 48
+  offset: 1, 1
+  index: -1
+xwr_lhuzi
+  rotate: true
+  xy: 362, 131
+  size: 31, 49
+  orig: 33, 51
+  offset: 1, 1
+  index: -1
+xwr_lmeimao
+  rotate: false
+  xy: 907, 201
+  size: 36, 53
+  orig: 38, 55
+  offset: 1, 1
+  index: -1
+xwr_lshou
+  rotate: false
+  xy: 843, 168
+  size: 62, 86
+  orig: 64, 88
+  offset: 1, 1
+  index: -1
+xwr_lsy
+  rotate: true
+  xy: 219, 65
+  size: 63, 110
+  orig: 65, 112
+  offset: 1, 1
+  index: -1
+xwr_lzhua
+  rotate: true
+  xy: 331, 80
+  size: 48, 27
+  orig: 50, 29
+  offset: 1, 1
+  index: -1
+xwr_qg
+  rotate: false
+  xy: 538, 129
+  size: 132, 125
+  orig: 134, 127
+  offset: 1, 1
+  index: -1
+xwr_rerduo
+  rotate: true
+  xy: 177, 7
+  size: 53, 33
+  orig: 55, 35
+  offset: 1, 1
+  index: -1
+xwr_rguaj
+  rotate: true
+  xy: 723, 139
+  size: 16, 39
+  orig: 18, 41
+  offset: 1, 1
+  index: -1
+xwr_rhuzi
+  rotate: false
+  xy: 140, 3
+  size: 35, 57
+  orig: 37, 59
+  offset: 1, 1
+  index: -1
+xwr_rmeimao
+  rotate: false
+  xy: 2, 2
+  size: 74, 58
+  orig: 76, 60
+  offset: 1, 1
+  index: -1
+xwr_rshou
+  rotate: false
+  xy: 788, 158
+  size: 53, 96
+  orig: 55, 98
+  offset: 1, 1
+  index: -1
+xwr_rsy
+  rotate: false
+  xy: 78, 2
+  size: 60, 58
+  orig: 62, 60
+  offset: 1, 1
+  index: -1
+xwr_rzhua
+  rotate: false
+  xy: 945, 218
+  size: 39, 36
+  orig: 41, 38
+  offset: 1, 1
+  index: -1
+xwr_tou
+  rotate: false
+  xy: 219, 130
+  size: 141, 124
+  orig: 143, 126
+  offset: 1, 1
+  index: -1
+xwr_xiongmao
+  rotate: false
+  xy: 672, 157
+  size: 114, 97
+  orig: 116, 99
+  offset: 1, 1
+  index: -1
+xwr_zui
+  rotate: false
+  xy: 461, 131
+  size: 43, 31
+  orig: 45, 33
+  offset: 1, 1
+  index: -1

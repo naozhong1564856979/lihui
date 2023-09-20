@@ -1,0 +1,153 @@
+
+32011.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bu
+  rotate: true
+  xy: 164, 20
+  size: 33, 61
+  orig: 33, 61
+  offset: 0, 0
+  index: -1
+erhuan2
+  rotate: false
+  xy: 458, 146
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+euhuan1
+  rotate: false
+  xy: 404, 147
+  size: 52, 37
+  orig: 52, 37
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 404, 186
+  size: 68, 93
+  orig: 68, 93
+  offset: 0, 0
+  index: -1
+shihua
+  rotate: false
+  xy: 2, 55
+  size: 224, 199
+  orig: 224, 199
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 228, 57
+  size: 115, 105
+  orig: 115, 105
+  offset: 0, 0
+  index: -1
+ty
+  rotate: false
+  xy: 228, 164
+  size: 174, 90
+  orig: 174, 90
+  offset: 0, 0
+  index: -1
+youdabi
+  rotate: false
+  xy: 485, 62
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+youdatui
+  rotate: true
+  xy: 399, 63
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+youer
+  rotate: false
+  xy: 345, 63
+  size: 52, 41
+  orig: 52, 41
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: false
+  xy: 94, 2
+  size: 28, 13
+  orig: 28, 13
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 446, 63
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+youxiaobi
+  rotate: true
+  xy: 345, 32
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+youxiaotui
+  rotate: false
+  xy: 411, 47
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+zuodabi
+  rotate: false
+  xy: 345, 106
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+zuodatui
+  rotate: true
+  xy: 453, 100
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: true
+  xy: 499, 231
+  size: 23, 8
+  orig: 23, 8
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 403, 105
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
+zuoxiaobi
+  rotate: true
+  xy: 94, 17
+  size: 36, 68
+  orig: 36, 68
+  offset: 0, 0
+  index: -1
+zuoxiaotui
+  rotate: false
+  xy: 387, 37
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+zzuoer
+  rotate: false
+  xy: 2, 3
+  size: 90, 50
+  orig: 90, 50
+  offset: 0, 0
+  index: -1

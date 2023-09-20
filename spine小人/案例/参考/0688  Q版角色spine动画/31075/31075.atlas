@@ -1,0 +1,146 @@
+
+31075.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 294, 355
+  size: 167, 155
+  orig: 167, 155
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 116
+  size: 173, 157
+  orig: 173, 157
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 463, 368
+  size: 170, 142
+  orig: 170, 142
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 635, 368
+  size: 170, 142
+  orig: 170, 142
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 807, 369
+  size: 171, 141
+  orig: 171, 141
+  offset: 0, 0
+  index: -1
+chibang
+  rotate: false
+  xy: 592, 260
+  size: 85, 106
+  orig: 85, 106
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 2
+  size: 171, 112
+  orig: 171, 112
+  offset: 0, 0
+  index: -1
+shihua
+  rotate: false
+  xy: 2, 275
+  size: 290, 235
+  orig: 290, 235
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 177, 74
+  size: 199, 92
+  orig: 199, 92
+  offset: 0, 0
+  index: -1
+ty
+  rotate: false
+  xy: 294, 263
+  size: 174, 90
+  orig: 174, 90
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: true
+  xy: 470, 260
+  size: 106, 120
+  orig: 106, 120
+  offset: 0, 0
+  index: -1
+youbi
+  rotate: false
+  xy: 679, 282
+  size: 64, 84
+  orig: 64, 84
+  offset: 0, 0
+  index: -1
+youhoujiao
+  rotate: true
+  xy: 271, 197
+  size: 31, 11
+  orig: 31, 11
+  offset: 0, 0
+  index: -1
+youhoutui
+  rotate: false
+  xy: 980, 461
+  size: 36, 49
+  orig: 36, 49
+  offset: 0, 0
+  index: -1
+youqianjiao
+  rotate: true
+  xy: 271, 230
+  size: 43, 19
+  orig: 43, 19
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 745, 319
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+zuobi
+  rotate: false
+  xy: 745, 284
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+zuoqianjiao
+  rotate: false
+  xy: 679, 265
+  size: 38, 15
+  orig: 38, 15
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 980, 385
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+zuowan
+  rotate: true
+  xy: 980, 411
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1

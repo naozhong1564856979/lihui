@@ -1,0 +1,286 @@
+
+shendian_boss.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 901, 35
+  size: 32, 56
+  orig: 32, 56
+  offset: 0, 0
+  index: -1
+02
+  rotate: true
+  xy: 687, 3
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+03
+  rotate: true
+  xy: 932, 102
+  size: 67, 66
+  orig: 67, 66
+  offset: 0, 0
+  index: -1
+168
+  rotate: false
+  xy: 281, 175
+  size: 170, 78
+  orig: 172, 78
+  offset: 0, 0
+  index: -1
+1681
+  rotate: true
+  xy: 966, 4
+  size: 34, 22
+  orig: 172, 78
+  offset: 138, 56
+  index: -1
+172
+  rotate: true
+  xy: 847, 172
+  size: 81, 112
+  orig: 81, 112
+  offset: 0, 0
+  index: -1
+173
+  rotate: true
+  xy: 725, 181
+  size: 72, 119
+  orig: 72, 119
+  offset: 0, 0
+  index: -1
+174
+  rotate: false
+  xy: 3, 104
+  size: 123, 149
+  orig: 123, 149
+  offset: 0, 0
+  index: -1
+269
+  rotate: false
+  xy: 129, 134
+  size: 149, 119
+  orig: 149, 119
+  offset: 0, 0
+  index: -1
+272
+  rotate: false
+  xy: 778, 3
+  size: 39, 40
+  orig: 68, 131
+  offset: 0, 32
+  index: -1
+272s
+  rotate: true
+  xy: 591, 186
+  size: 67, 131
+  orig: 68, 131
+  offset: 1, 0
+  index: -1
+273
+  rotate: false
+  xy: 218, 3
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+274
+  rotate: false
+  xy: 843, 94
+  size: 86, 75
+  orig: 86, 75
+  offset: 0, 0
+  index: -1
+370
+  rotate: false
+  xy: 693, 98
+  size: 90, 80
+  orig: 90, 107
+  offset: 0, 27
+  index: -1
+370a
+  rotate: false
+  xy: 735, 3
+  size: 40, 40
+  orig: 90, 107
+  offset: 44, 0
+  index: -1
+370b
+  rotate: true
+  xy: 864, 12
+  size: 31, 32
+  orig: 90, 107
+  offset: 1, 15
+  index: -1
+372
+  rotate: false
+  xy: 836, 46
+  size: 62, 45
+  orig: 62, 45
+  offset: 0, 0
+  index: -1
+373
+  rotate: false
+  xy: 558, 117
+  size: 22, 46
+  orig: 22, 46
+  offset: 0, 0
+  index: -1
+374
+  rotate: false
+  xy: 591, 109
+  size: 99, 74
+  orig: 99, 74
+  offset: 0, 0
+  index: -1
+471
+  rotate: false
+  xy: 129, 95
+  size: 66, 36
+  orig: 66, 54
+  offset: 0, 18
+  index: -1
+471s
+  rotate: false
+  xy: 936, 3
+  size: 27, 35
+  orig: 66, 54
+  offset: 0, 0
+  index: -1
+471sa
+  rotate: true
+  xy: 899, 9
+  size: 23, 31
+  orig: 66, 54
+  offset: 43, 7
+  index: -1
+472
+  rotate: true
+  xy: 218, 34
+  size: 97, 50
+  orig: 120, 96
+  offset: 23, 5
+  index: -1
+473
+  rotate: true
+  xy: 962, 179
+  size: 74, 59
+  orig: 74, 59
+  offset: 0, 0
+  index: -1
+474
+  rotate: true
+  xy: 453, 88
+  size: 75, 102
+  orig: 75, 102
+  offset: 0, 0
+  index: -1
+72
+  rotate: false
+  xy: 820, 17
+  size: 41, 26
+  orig: 41, 26
+  offset: 0, 0
+  index: -1
+73
+  rotate: false
+  xy: 936, 41
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+74
+  rotate: true
+  xy: 394, 79
+  size: 93, 56
+  orig: 93, 56
+  offset: 0, 0
+  index: -1
+74eww
+  rotate: false
+  xy: 692, 56
+  size: 75, 39
+  orig: 93, 56
+  offset: 18, 4
+  index: -1
+75
+  rotate: true
+  xy: 122, 3
+  size: 88, 93
+  orig: 115, 107
+  offset: 17, 10
+  index: -1
+752
+  rotate: false
+  xy: 770, 53
+  size: 63, 39
+  orig: 115, 107
+  offset: 44, 35
+  index: -1
+76
+  rotate: false
+  xy: 454, 166
+  size: 134, 87
+  orig: 134, 87
+  offset: 0, 0
+  index: -1
+76ds
+  rotate: false
+  xy: 606, 55
+  size: 83, 51
+  orig: 134, 87
+  offset: 0, 7
+  index: -1
+77
+  rotate: false
+  xy: 786, 95
+  size: 54, 83
+  orig: 54, 83
+  offset: 0, 0
+  index: -1
+weeee
+  rotate: true
+  xy: 271, 40
+  size: 51, 96
+  orig: 120, 96
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 606, 7
+  size: 78, 45
+  orig: 194, 78
+  offset: 71, 33
+  index: -1
+yingzi1
+  rotate: false
+  xy: 453, 3
+  size: 72, 82
+  orig: 94, 133
+  offset: 5, 33
+  index: -1
+yingzi2
+  rotate: false
+  xy: 3, 22
+  size: 116, 79
+  orig: 396, 200
+  offset: 228, 0
+  index: -1
+yingzi3
+  rotate: false
+  xy: 281, 94
+  size: 110, 78
+  orig: 137, 118
+  offset: 27, 16
+  index: -1
+yingzi5
+  rotate: false
+  xy: 528, 6
+  size: 75, 79
+  orig: 190, 161
+  offset: 24, 42
+  index: -1

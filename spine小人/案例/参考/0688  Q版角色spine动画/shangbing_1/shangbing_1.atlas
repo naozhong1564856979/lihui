@@ -1,0 +1,118 @@
+
+shangbing_1.png
+size: 881,413
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 506, 13
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 196, 18
+  size: 172, 179
+  orig: 172, 179
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 2, 2
+  size: 192, 195
+  orig: 192, 195
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 842, 214
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 820, 10
+  size: 33, 76
+  orig: 33, 76
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 842, 227
+  size: 37, 87
+  orig: 37, 87
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 842, 316
+  size: 36, 95
+  orig: 36, 95
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 820, 88
+  size: 59, 109
+  orig: 59, 109
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 730, 57
+  size: 88, 140
+  orig: 88, 140
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 623, 49
+  size: 105, 148
+  orig: 105, 148
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 506, 42
+  size: 115, 155
+  orig: 115, 155
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 370, 25
+  size: 134, 172
+  orig: 134, 172
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 2, 199
+  size: 208, 212
+  orig: 208, 212
+  offset: 0, 0
+  index: -1
+liang
+  rotate: false
+  xy: 212, 199
+  size: 208, 212
+  orig: 208, 212
+  offset: 0, 0
+  index: -1
+s02
+  rotate: false
+  xy: 422, 199
+  size: 208, 212
+  orig: 208, 212
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 632, 199
+  size: 208, 212
+  orig: 208, 212
+  offset: 0, 0
+  index: -1

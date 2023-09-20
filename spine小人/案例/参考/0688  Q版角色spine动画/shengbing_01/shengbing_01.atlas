@@ -1,0 +1,41 @@
+
+shengbing_01.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 674, 77
+  size: 134, 137
+  orig: 134, 137
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 212, 60
+  size: 152, 154
+  orig: 152, 154
+  offset: 0, 0
+  index: -1
+gung
+  rotate: false
+  xy: 366, 60
+  size: 152, 154
+  orig: 152, 154
+  offset: 0, 0
+  index: -1
+liang
+  rotate: false
+  xy: 520, 60
+  size: 152, 154
+  orig: 152, 154
+  offset: 0, 0
+  index: -1
+yingzi1
+  rotate: false
+  xy: 2, 2
+  size: 208, 212
+  orig: 208, 212
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,164 @@
+{
+"skeleton": { "hash": "1Ukw+tqTePPj8cwCOJfbPD0dT7I", "spine": "2.1.27", "width": 266.05, "height": 356.62, "images": "./images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "x": 4.88, "y": 125.3, "scaleX": -1, "rotation": -1 }
+],
+"slots": [
+	{ "name": "bone", "bone": "bone", "color": "ffffff00", "attachment": "guang" },
+	{ "name": "c", "bone": "bone", "attachment": "c" },
+	{ "name": "b", "bone": "bone", "attachment": "b" },
+	{ "name": "a", "bone": "bone", "attachment": "a" },
+	{ "name": "root", "bone": "root", "attachment": "yingzi2" }
+],
+"skins": {
+	"default": {
+		"a": {
+			"a": { "x": -0.78, "y": 9.55, "width": 184, "height": 170 }
+		},
+		"b": {
+			"b": { "x": -0.28, "y": 9.55, "width": 185, "height": 170 }
+		},
+		"bone": {
+			"guang": { "x": -7.17, "y": 15.7, "scaleX": -1.526, "scaleY": 1.643, "rotation": 47.37, "width": 100, "height": 134 }
+		},
+		"c": {
+			"c": { "x": 0.21, "y": 9.05, "width": 202, "height": 187 }
+		},
+		"root": {
+			"yingzi2": { "y": 20.48, "width": 208, "height": 212 }
+		}
+	}
+},
+"events": {
+	"hit": {}
+},
+"animations": {
+	"atk": {
+		"slots": {
+			"a": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.2333, "color": "ffffffff" },
+					{ "time": 0.5, "color": "ffffff00" }
+				]
+			},
+			"b": {
+				"attachment": [
+					{ "time": 0.5, "name": "b" }
+				],
+				"color": [
+					{ "time": 0, "color": "ffffffff" },
+					{ "time": 0.2333, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.5, "color": "ffffff00" }
+				]
+			},
+			"c": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.2333, "color": "ffffffff" },
+					{ "time": 0.5, "color": "ffffff00" }
+				]
+			},
+			"root": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.3, "color": "ffffffff" },
+					{ "time": 0.5, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.2333, "x": 1.477, "y": 1.477 },
+					{ "time": 0.5, "x": 1.819, "y": 1.819 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0.5, "name": "hit", "string": "hit" }
+		]
+	},
+	"wait": {
+		"slots": {
+			"a": {
+				"color": [
+					{ "time": 0, "color": "ffffff43" },
+					{ "time": 1.4666, "color": "ffffffff" },
+					{ "time": 2.6666, "color": "ffffff43" }
+				]
+			},
+			"b": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 2.6666, "color": "ffffffff" }
+				]
+			},
+			"bone": {
+				"attachment": [
+					{ "time": 0, "name": "guang" },
+					{ "time": 2.6666, "name": "guang" }
+				],
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 1.4666, "color": "ffffff6d" },
+					{ "time": 2.6666, "color": "ffffff00" }
+				]
+			},
+			"c": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 2.6666, "color": "ffffffff" }
+				]
+			},
+			"root": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 2.6666, "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 1.4666, "angle": 0 },
+					{ "time": 2.6666, "angle": 360.61 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 1.4666, "x": -0.04, "y": -13.17 },
+					{ "time": 2.6666, "x": -1.32, "y": 0.04 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1.4666, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 2.6666, "x": 1, "y": 1 }
+				]
+			},
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 2.6666, "angle": -0.61 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2.6666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 2.6666, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

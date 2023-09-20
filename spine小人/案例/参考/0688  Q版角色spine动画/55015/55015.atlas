@@ -1,0 +1,160 @@
+
+55015.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qugan
+  rotate: false
+  xy: 750, 191
+  size: 76, 62
+  orig: 76, 62
+  offset: 0, 0
+  index: -1
+shihua
+  rotate: false
+  xy: 3, 26
+  size: 265, 227
+  orig: 271, 271
+  offset: 1, 42
+  index: -1
+shou
+  rotate: true
+  xy: 415, 45
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 480, 162
+  size: 91, 141
+  orig: 91, 141
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: true
+  xy: 624, 134
+  size: 119, 123
+  orig: 119, 123
+  offset: 0, 0
+  index: -1
+ty
+  rotate: false
+  xy: 271, 83
+  size: 174, 90
+  orig: 174, 90
+  offset: 0, 0
+  index: -1
+wuqi1
+  rotate: false
+  xy: 271, 40
+  size: 85, 40
+  orig: 85, 40
+  offset: 0, 0
+  index: -1
+wuqi2
+  rotate: false
+  xy: 271, 176
+  size: 206, 77
+  orig: 206, 77
+  offset: 0, 0
+  index: -1
+yaodai
+  rotate: false
+  xy: 818, 145
+  size: 55, 43
+  orig: 55, 43
+  offset: 0, 0
+  index: -1
+yaodai1
+  rotate: true
+  xy: 3, 10
+  size: 13, 37
+  orig: 13, 37
+  offset: 0, 0
+  index: -1
+yaodai2
+  rotate: true
+  xy: 990, 205
+  size: 9, 31
+  orig: 9, 31
+  offset: 0, 0
+  index: -1
+youbianjianjia
+  rotate: false
+  xy: 948, 208
+  size: 39, 45
+  orig: 39, 45
+  offset: 0, 0
+  index: -1
+youbianmaoling
+  rotate: true
+  xy: 359, 3
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+youshosu1
+  rotate: false
+  xy: 448, 95
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 359, 41
+  size: 53, 39
+  orig: 53, 39
+  offset: 0, 0
+  index: -1
+youshoubi
+  rotate: true
+  xy: 990, 217
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: false
+  xy: 448, 124
+  size: 23, 49
+  orig: 23, 49
+  offset: 0, 0
+  index: -1
+zuobianjianjia
+  rotate: false
+  xy: 750, 135
+  size: 65, 53
+  orig: 65, 53
+  offset: 0, 0
+  index: -1
+zuobianjianjia1
+  rotate: true
+  xy: 876, 152
+  size: 36, 15
+  orig: 36, 15
+  offset: 0, 0
+  index: -1
+zuobianmaoling
+  rotate: false
+  xy: 829, 191
+  size: 71, 62
+  orig: 71, 62
+  offset: 0, 0
+  index: -1
+zuoshouqianbi
+  rotate: false
+  xy: 409, 3
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: false
+  xy: 903, 195
+  size: 42, 58
+  orig: 42, 58
+  offset: 0, 0
+  index: -1
