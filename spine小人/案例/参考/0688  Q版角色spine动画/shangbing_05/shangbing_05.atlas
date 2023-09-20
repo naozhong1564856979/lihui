@@ -1,0 +1,62 @@
+
+shangbing_05.png
+size: 616,443
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 422, 36
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 422, 65
+  size: 172, 179
+  orig: 172, 179
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 422, 246
+  size: 192, 195
+  orig: 192, 195
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 2, 2
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 2, 229
+  size: 208, 212
+  orig: 208, 212
+  offset: 0, 0
+  index: -1
+liang
+  rotate: false
+  xy: 2, 15
+  size: 208, 212
+  orig: 208, 212
+  offset: 0, 0
+  index: -1
+s02
+  rotate: false
+  xy: 212, 229
+  size: 208, 212
+  orig: 208, 212
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 212, 15
+  size: 208, 212
+  orig: 208, 212
+  offset: 0, 0
+  index: -1

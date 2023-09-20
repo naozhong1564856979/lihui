@@ -1,0 +1,144 @@
+{ "skeleton": { "images": "D:/Day day study/Spine示例/Q版角色动画/23035-先知女巫/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "图层 1", "bone": "root" },
+	{ "name": "图层 1 拷贝", "bone": "root" },
+	{ "name": "ty", "bone": "root", "attachment": "ty" },
+	{ "name": "houjian", "bone": "root", "attachment": "houjian" },
+	{ "name": "houbi", "bone": "root", "attachment": "houbi" },
+	{ "name": "houshou", "bone": "root", "attachment": "houshou" },
+	{ "name": "xing07", "bone": "root", "attachment": "xing07" },
+	{ "name": "xing06", "bone": "root", "attachment": "xing06" },
+	{ "name": "xing05", "bone": "root", "attachment": "xing05" },
+	{ "name": "xing04", "bone": "root", "attachment": "xing04" },
+	{ "name": "tui03", "bone": "root", "attachment": "tui03" },
+	{ "name": "tui02", "bone": "root", "attachment": "tui02" },
+	{ "name": "tui01", "bone": "root", "attachment": "tui01" },
+	{ "name": "qunzi", "bone": "root", "attachment": "qunzi" },
+	{ "name": "shenti", "bone": "root", "attachment": "shenti" },
+	{ "name": "yaodai", "bone": "root", "attachment": "yaodai" },
+	{ "name": "toufa04", "bone": "root", "attachment": "toufa04" },
+	{ "name": "tou", "bone": "root", "attachment": "tou" },
+	{ "name": "tou2", "bone": "root", "attachment": "tou2" },
+	{ "name": "toufa03", "bone": "root", "attachment": "toufa03" },
+	{ "name": "toufa02", "bone": "root", "attachment": "toufa02" },
+	{ "name": "toufa01", "bone": "root", "attachment": "toufa01" },
+	{ "name": "xing03", "bone": "root", "attachment": "xing03" },
+	{ "name": "xing02", "bone": "root", "attachment": "xing02" },
+	{ "name": "xing01", "bone": "root", "attachment": "xing01" },
+	{ "name": "er", "bone": "root", "attachment": "er" },
+	{ "name": "xiuzi03", "bone": "root", "attachment": "xiuzi03" },
+	{ "name": "shou01", "bone": "root", "attachment": "shou01" },
+	{ "name": "shoubi", "bone": "root", "attachment": "shoubi" },
+	{ "name": "xiuzi02", "bone": "root", "attachment": "xiuzi02" },
+	{ "name": "jianjia", "bone": "root", "attachment": "jianjia" },
+	{ "name": "xiuzi01", "bone": "root", "attachment": "xiuzi01" },
+	{ "name": "xiuzi", "bone": "root", "attachment": "xiuzi" }
+],
+"skins": {
+	"default": {
+		"图层 1": {
+			"图层 1": { "x": 510.5, "y": -128, "width": 1019, "height": 254 }
+		},
+		"图层 1 拷贝": {
+			"图层 1 拷贝": { "x": 547.5, "y": -128, "width": 499, "height": 248 }
+		},
+		"ty": {
+			"ty": { "x": 712, "y": -218, "width": 172, "height": 78 }
+		},
+		"houjian": {
+			"houjian": { "x": 744, "y": -161.5, "width": 28, "height": 27 }
+		},
+		"houbi": {
+			"houbi": { "x": 744.5, "y": -181.5, "width": 29, "height": 21 }
+		},
+		"houshou": {
+			"houshou": { "x": 760.5, "y": -186, "width": 31, "height": 24 }
+		},
+		"xing07": {
+			"xing07": { "x": 765.5, "y": -217.5, "width": 15, "height": 17 }
+		},
+		"xing06": {
+			"xing06": { "x": 648, "y": -235.5, "width": 14, "height": 13 }
+		},
+		"xing05": {
+			"xing05": { "x": 690, "y": -215, "width": 12, "height": 12 }
+		},
+		"xing04": {
+			"xing04": { "x": 661.5, "y": -206, "width": 15, "height": 20 }
+		},
+		"tui03": {
+			"tui03": { "x": 686, "y": -228.5, "width": 56, "height": 51 }
+		},
+		"tui02": {
+			"tui02": { "x": 745.5, "y": -234.5, "width": 41, "height": 31 }
+		},
+		"tui01": {
+			"tui01": { "x": 714.5, "y": -225, "width": 71, "height": 64 }
+		},
+		"qunzi": {
+			"qunzi": { "x": 714, "y": -198.5, "width": 42, "height": 39 }
+		},
+		"shenti": {
+			"shenti": { "x": 728.5, "y": -163, "width": 49, "height": 60 }
+		},
+		"yaodai": {
+			"yaodai": { "x": 719.5, "y": -186, "width": 33, "height": 32 }
+		},
+		"toufa04": {
+			"toufa04": { "x": 684.5, "y": -114.5, "width": 107, "height": 69 }
+		},
+		"tou": {
+			"tou": { "x": 752, "y": -118.5, "width": 82, "height": 91 }
+		},
+		"tou2": {
+			"tou2": { "x": 752, "y": -118.5, "width": 82, "height": 91 }
+		},
+		"toufa03": {
+			"toufa03": { "x": 725.5, "y": -65, "width": 143, "height": 106 }
+		},
+		"toufa02": {
+			"toufa02": { "x": 720.5, "y": -30, "width": 59, "height": 42 }
+		},
+		"toufa01": {
+			"toufa01": { "x": 668, "y": -55, "width": 122, "height": 62 }
+		},
+		"xing03": {
+			"xing03": { "x": 756.5, "y": -28.5, "width": 19, "height": 17 }
+		},
+		"xing02": {
+			"xing02": { "x": 639, "y": -18.5, "width": 22, "height": 13 }
+		},
+		"xing01": {
+			"xing01": { "x": 629, "y": -96, "width": 14, "height": 8 }
+		},
+		"er": {
+			"er": { "x": 710.5, "y": -118, "width": 27, "height": 30 }
+		},
+		"xiuzi03": {
+			"xiuzi03": { "x": 678.5, "y": -185.5, "width": 53, "height": 39 }
+		},
+		"shou01": {
+			"shou01": { "x": 715.5, "y": -195, "width": 35, "height": 28 }
+		},
+		"shoubi": {
+			"shoubi": { "x": 691, "y": -186, "width": 34, "height": 24 }
+		},
+		"xiuzi02": {
+			"xiuzi02": { "x": 692.5, "y": -165.5, "width": 35, "height": 29 }
+		},
+		"jianjia": {
+			"jianjia": { "x": 703.5, "y": -152, "width": 35, "height": 28 }
+		},
+		"xiuzi01": {
+			"xiuzi01": { "x": 657, "y": -190.5, "width": 98, "height": 47 }
+		},
+		"xiuzi": {
+			"xiuzi": { "x": 673, "y": -168, "width": 64, "height": 30 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

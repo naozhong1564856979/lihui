@@ -1,0 +1,62 @@
+
+22012.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti1
+  rotate: false
+  xy: 319, 110
+  size: 119, 131
+  orig: 119, 131
+  offset: 0, 0
+  index: -1
+shenti2
+  rotate: true
+  xy: 356, 9
+  size: 99, 77
+  orig: 99, 77
+  offset: 0, 0
+  index: -1
+shenti3
+  rotate: false
+  xy: 440, 172
+  size: 70, 69
+  orig: 70, 69
+  offset: 0, 0
+  index: -1
+shihua
+  rotate: false
+  xy: 2, 13
+  size: 176, 228
+  orig: 176, 228
+  offset: 0, 0
+  index: -1
+tou2
+  rotate: true
+  xy: 180, 94
+  size: 147, 137
+  orig: 147, 137
+  offset: 0, 0
+  index: -1
+ty
+  rotate: false
+  xy: 180, 2
+  size: 174, 90
+  orig: 174, 90
+  offset: 0, 0
+  index: -1
+xiaba
+  rotate: true
+  xy: 435, 11
+  size: 97, 50
+  orig: 97, 50
+  offset: 0, 0
+  index: -1
+xuzi
+  rotate: true
+  xy: 440, 123
+  size: 47, 30
+  orig: 47, 30
+  offset: 0, 0
+  index: -1

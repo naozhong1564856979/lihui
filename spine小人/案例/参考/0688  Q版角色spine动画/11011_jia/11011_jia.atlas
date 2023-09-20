@@ -1,0 +1,167 @@
+
+11011_jia.png
+size: 988,934
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10001
+  rotate: false
+  xy: 234, 10
+  size: 199, 178
+  orig: 518, 316
+  offset: 133, 56
+  index: -1
+10002
+  rotate: false
+  xy: 435, 12
+  size: 230, 137
+  orig: 518, 316
+  offset: 136, 82
+  index: -1
+10003
+  rotate: false
+  xy: 705, 746
+  size: 221, 186
+  orig: 518, 316
+  offset: 142, 58
+  index: -1
+10004
+  rotate: false
+  xy: 654, 419
+  size: 206, 186
+  orig: 518, 316
+  offset: 153, 54
+  index: -1
+10005
+  rotate: false
+  xy: 472, 151
+  size: 199, 178
+  orig: 518, 316
+  offset: 133, 56
+  index: -1
+10006
+  rotate: false
+  xy: 673, 121
+  size: 230, 137
+  orig: 518, 316
+  offset: 136, 82
+  index: -1
+10007
+  rotate: false
+  xy: 2, 2
+  size: 230, 186
+  orig: 518, 316
+  offset: 142, 58
+  index: -1
+10008
+  rotate: false
+  xy: 2, 190
+  size: 260, 186
+  orig: 518, 316
+  offset: 148, 54
+  index: -1
+10009
+  rotate: false
+  xy: 389, 754
+  size: 314, 178
+  orig: 518, 316
+  offset: 131, 56
+  index: -1
+10010
+  rotate: false
+  xy: 652, 607
+  size: 308, 137
+  orig: 518, 316
+  offset: 121, 82
+  index: -1
+10011
+  rotate: false
+  xy: 2, 378
+  size: 359, 186
+  orig: 518, 316
+  offset: 86, 58
+  index: -1
+10012
+  rotate: false
+  xy: 2, 566
+  size: 360, 186
+  orig: 518, 316
+  offset: 94, 54
+  index: -1
+10013
+  rotate: false
+  xy: 2, 754
+  size: 385, 178
+  orig: 518, 316
+  offset: 77, 56
+  index: -1
+10014
+  rotate: false
+  xy: 363, 423
+  size: 289, 141
+  orig: 518, 316
+  offset: 77, 82
+  index: -1
+10015
+  rotate: false
+  xy: 364, 566
+  size: 286, 186
+  orig: 518, 316
+  offset: 77, 58
+  index: -1
+10016
+  rotate: false
+  xy: 264, 190
+  size: 206, 186
+  orig: 518, 316
+  offset: 153, 54
+  index: -1
+gunzi
+  rotate: false
+  xy: 862, 464
+  size: 114, 141
+  orig: 116, 189
+  offset: 0, 24
+  index: -1
+shenli
+  rotate: false
+  xy: 893, 337
+  size: 80, 125
+  orig: 100, 155
+  offset: 6, 14
+  index: -1
+shenti
+  rotate: false
+  xy: 673, 260
+  size: 218, 157
+  orig: 218, 157
+  offset: 0, 0
+  index: -1
+shibai
+  rotate: false
+  xy: 905, 212
+  size: 81, 123
+  orig: 100, 155
+  offset: 6, 17
+  index: -1
+tou
+  rotate: false
+  xy: 667, 45
+  size: 93, 74
+  orig: 93, 74
+  offset: 0, 0
+  index: -1
+tou_sl
+  rotate: false
+  xy: 762, 45
+  size: 93, 74
+  orig: 93, 74
+  offset: 0, 0
+  index: -1
+ty
+  rotate: false
+  xy: 472, 331
+  size: 174, 90
+  orig: 174, 90
+  offset: 0, 0
+  index: -1

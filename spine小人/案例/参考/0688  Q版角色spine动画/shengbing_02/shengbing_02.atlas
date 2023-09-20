@@ -1,0 +1,104 @@
+
+shengbing_02.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 212, 75
+  size: 111, 105
+  orig: 111, 105
+  offset: 0, 0
+  index: -1
+1g
+  rotate: false
+  xy: 525, 398
+  size: 111, 105
+  orig: 111, 105
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 638, 402
+  size: 108, 101
+  orig: 108, 101
+  offset: 0, 0
+  index: -1
+2g
+  rotate: false
+  xy: 858, 402
+  size: 108, 101
+  orig: 108, 101
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 748, 402
+  size: 108, 101
+  orig: 108, 101
+  offset: 0, 0
+  index: -1
+3g
+  rotate: false
+  xy: 525, 295
+  size: 108, 101
+  orig: 108, 101
+  offset: 0, 0
+  index: -1
+a
+  rotate: false
+  xy: 2, 11
+  size: 87, 52
+  orig: 87, 52
+  offset: 0, 0
+  index: -1
+b
+  rotate: false
+  xy: 212, 333
+  size: 166, 170
+  orig: 166, 170
+  offset: 0, 0
+  index: -1
+c
+  rotate: false
+  xy: 968, 412
+  size: 39, 91
+  orig: 39, 91
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 2, 279
+  size: 208, 224
+  orig: 208, 224
+  offset: 0, 0
+  index: -1
+liang
+  rotate: false
+  xy: 380, 354
+  size: 143, 149
+  orig: 143, 149
+  offset: 0, 0
+  index: -1
+w
+  rotate: false
+  xy: 212, 182
+  size: 144, 149
+  orig: 144, 149
+  offset: 0, 0
+  index: -1
+xing
+  rotate: false
+  xy: 91, 2
+  size: 62, 61
+  orig: 62, 61
+  offset: 0, 0
+  index: -1
+yingzi2
+  rotate: false
+  xy: 2, 65
+  size: 208, 212
+  orig: 208, 212
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+白龙.png
+size: 1798,795
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+下颚
+  rotate: true
+  xy: 1338, 10
+  size: 243, 138
+  orig: 243, 138
+  offset: 0, 0
+  index: -1
+前腿后
+  rotate: true
+  xy: 2, 2
+  size: 251, 522
+  orig: 251, 522
+  offset: 0, 0
+  index: -1
+前腿外
+  rotate: true
+  xy: 526, 2
+  size: 251, 522
+  orig: 251, 522
+  offset: 0, 0
+  index: -1
+后腿后
+  rotate: false
+  xy: 1498, 406
+  size: 298, 387
+  orig: 298, 387
+  offset: 0, 0
+  index: -1
+后腿外
+  rotate: false
+  xy: 1498, 17
+  size: 298, 387
+  orig: 298, 387
+  offset: 0, 0
+  index: -1
+头
+  rotate: false
+  xy: 1050, 23
+  size: 286, 230
+  orig: 288, 231
+  offset: 2, 1
+  index: -1
+身体
+  rotate: false
+  xy: 2, 255
+  size: 1494, 538
+  orig: 1496, 540
+  offset: 0, 2
+  index: -1

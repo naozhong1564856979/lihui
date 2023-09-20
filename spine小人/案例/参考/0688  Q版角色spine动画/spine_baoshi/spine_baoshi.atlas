@@ -1,0 +1,139 @@
+
+spine_baoshi.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+damuzhi
+  rotate: false
+  xy: 253, 82
+  size: 36, 67
+  orig: 36, 67
+  offset: 0, 0
+  index: -1
+fazaidiaozhui
+  rotate: true
+  xy: 2, 2
+  size: 22, 99
+  orig: 22, 99
+  offset: 0, 0
+  index: -1
+liuhai
+  rotate: true
+  xy: 289, 158
+  size: 76, 132
+  orig: 76, 132
+  offset: 0, 0
+  index: -1
+piadaibu
+  rotate: false
+  xy: 671, 260
+  size: 111, 138
+  orig: 111, 138
+  offset: 0, 0
+  index: -1
+qianyixiu
+  rotate: false
+  xy: 784, 254
+  size: 101, 144
+  orig: 101, 144
+  offset: 0, 0
+  index: -1
+shanzi
+  rotate: true
+  xy: 2, 26
+  size: 123, 249
+  orig: 123, 249
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 289, 236
+  size: 200, 273
+  orig: 200, 273
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 491, 339
+  size: 178, 170
+  orig: 178, 170
+  offset: 0, 0
+  index: -1
+toufah
+  rotate: false
+  xy: 2, 151
+  size: 285, 358
+  orig: 285, 358
+  offset: 0, 0
+  index: -1
+yanjing1
+  rotate: true
+  xy: 895, 401
+  size: 108, 121
+  orig: 108, 121
+  offset: 0, 0
+  index: -1
+yanjing2
+  rotate: true
+  xy: 491, 92
+  size: 108, 121
+  orig: 108, 121
+  offset: 0, 0
+  index: -1
+yanjing3
+  rotate: false
+  xy: 671, 137
+  size: 108, 121
+  orig: 108, 121
+  offset: 0, 0
+  index: -1
+youerhuan
+  rotate: false
+  xy: 253, 27
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 491, 202
+  size: 135, 178
+  orig: 135, 178
+  offset: 0, 0
+  index: -1
+youshoubi
+  rotate: true
+  xy: 671, 400
+  size: 109, 222
+  orig: 109, 222
+  offset: 0, 0
+  index: -1
+zuoerhuan
+  rotate: false
+  xy: 863, 206
+  size: 25, 46
+  orig: 25, 46
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 423, 95
+  size: 66, 139
+  orig: 66, 139
+  offset: 0, 0
+  index: -1
+zuoshoubi
+  rotate: false
+  xy: 781, 132
+  size: 80, 120
+  orig: 80, 120
+  offset: 0, 0
+  index: -1
+zuoshouzhang
+  rotate: false
+  xy: 614, 111
+  size: 39, 89
+  orig: 39, 89
+  offset: 0, 0
+  index: -1

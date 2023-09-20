@@ -1,0 +1,83 @@
+
+shengbing_03.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 392, 177
+  size: 18, 59
+  orig: 18, 59
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 2, 2
+  size: 18, 61
+  orig: 18, 61
+  offset: 0, 0
+  index: -1
+a
+  rotate: false
+  xy: 232, 96
+  size: 117, 76
+  orig: 117, 76
+  offset: 0, 0
+  index: -1
+faguang
+  rotate: false
+  xy: 538, 240
+  size: 40, 56
+  orig: 40, 56
+  offset: 0, 0
+  index: -1
+q
+  rotate: false
+  xy: 602, 430
+  size: 124, 80
+  orig: 124, 80
+  offset: 0, 0
+  index: -1
+qw
+  rotate: false
+  xy: 2, 174
+  size: 193, 336
+  orig: 193, 336
+  offset: 0, 0
+  index: -1
+qw1
+  rotate: false
+  xy: 197, 174
+  size: 193, 336
+  orig: 193, 336
+  offset: 0, 0
+  index: -1
+s
+  rotate: true
+  xy: 2, 65
+  size: 107, 228
+  orig: 107, 228
+  offset: 0, 0
+  index: -1
+shoub
+  rotate: false
+  xy: 602, 385
+  size: 22, 43
+  orig: 22, 43
+  offset: 0, 0
+  index: -1
+w
+  rotate: false
+  xy: 392, 197
+  size: 144, 99
+  orig: 144, 99
+  offset: 0, 0
+  index: -1
+yingzi3
+  rotate: false
+  xy: 392, 298
+  size: 208, 212
+  orig: 208, 212
+  offset: 0, 0
+  index: -1

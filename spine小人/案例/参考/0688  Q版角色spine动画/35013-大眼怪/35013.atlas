@@ -1,0 +1,76 @@
+
+35013.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 427, 117
+  size: 50, 39
+  orig: 50, 39
+  offset: 0, 0
+  index: -1
+chixu4
+  rotate: false
+  xy: 336, 42
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+chuxu1
+  rotate: false
+  xy: 386, 98
+  size: 39, 58
+  orig: 39, 58
+  offset: 0, 0
+  index: -1
+chuxu2
+  rotate: false
+  xy: 336, 86
+  size: 48, 70
+  orig: 48, 70
+  offset: 0, 0
+  index: -1
+chuxu3
+  rotate: true
+  xy: 362, 56
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+chuxu5
+  rotate: false
+  xy: 479, 131
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+chuxu6
+  rotate: true
+  xy: 2, 2
+  size: 20, 47
+  orig: 20, 47
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 202, 36
+  size: 132, 212
+  orig: 132, 212
+  offset: 0, 0
+  index: -1
+shihua
+  rotate: false
+  xy: 2, 24
+  size: 198, 224
+  orig: 198, 224
+  offset: 0, 0
+  index: -1
+ty
+  rotate: false
+  xy: 336, 158
+  size: 174, 90
+  orig: 174, 90
+  offset: 0, 0
+  index: -1

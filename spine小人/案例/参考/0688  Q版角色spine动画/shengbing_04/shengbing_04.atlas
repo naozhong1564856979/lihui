@@ -1,0 +1,41 @@
+
+shengbing_04.png
+size: 891,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: false
+  xy: 603, 44
+  size: 184, 170
+  orig: 184, 170
+  offset: 0, 0
+  index: -1
+b
+  rotate: false
+  xy: 416, 44
+  size: 185, 170
+  orig: 185, 170
+  offset: 0, 0
+  index: -1
+c
+  rotate: false
+  xy: 212, 27
+  size: 202, 187
+  orig: 202, 187
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 789, 80
+  size: 100, 134
+  orig: 100, 134
+  offset: 0, 0
+  index: -1
+yingzi2
+  rotate: false
+  xy: 2, 2
+  size: 208, 212
+  orig: 208, 212
+  offset: 0, 0
+  index: -1

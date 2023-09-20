@@ -1,0 +1,167 @@
+
+25055.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cedatui
+  rotate: false
+  xy: 226, 37
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+cerzua01
+  rotate: true
+  xy: 268, 52
+  size: 31, 13
+  orig: 31, 13
+  offset: 0, 0
+  index: -1
+erduo01
+  rotate: false
+  xy: 532, 130
+  size: 54, 32
+  orig: 54, 32
+  offset: 0, 0
+  index: -1
+erduo02
+  rotate: false
+  xy: 168, 15
+  size: 49, 20
+  orig: 49, 20
+  offset: 0, 0
+  index: -1
+houcetui
+  rotate: true
+  xy: 883, 160
+  size: 32, 56
+  orig: 32, 56
+  offset: 0, 0
+  index: -1
+houcezua
+  rotate: true
+  xy: 1011, 230
+  size: 24, 9
+  orig: 24, 9
+  offset: 0, 0
+  index: -1
+houdaui01
+  rotate: false
+  xy: 969, 198
+  size: 40, 56
+  orig: 40, 56
+  offset: 0, 0
+  index: -1
+houxiaotui01
+  rotate: true
+  xy: 284, 87
+  size: 27, 43
+  orig: 27, 43
+  offset: 0, 0
+  index: -1
+houya
+  rotate: true
+  xy: 372, 88
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+houzua01
+  rotate: false
+  xy: 219, 22
+  size: 29, 13
+  orig: 29, 13
+  offset: 0, 0
+  index: -1
+mao01
+  rotate: false
+  xy: 89, 5
+  size: 77, 78
+  orig: 77, 78
+  offset: 0, 0
+  index: -1
+mao02
+  rotate: false
+  xy: 752, 158
+  size: 129, 96
+  orig: 129, 96
+  offset: 0, 0
+  index: -1
+qiancetui
+  rotate: false
+  xy: 485, 118
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+qiandatui
+  rotate: true
+  xy: 425, 116
+  size: 46, 58
+  orig: 46, 58
+  offset: 0, 0
+  index: -1
+qianxiaotui
+  rotate: false
+  xy: 168, 37
+  size: 56, 46
+  orig: 56, 46
+  offset: 0, 0
+  index: -1
+qianzua
+  rotate: true
+  xy: 941, 160
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 601, 162
+  size: 149, 92
+  orig: 149, 92
+  offset: 0, 0
+  index: -1
+shihua
+  rotate: false
+  xy: 2, 85
+  size: 280, 169
+  orig: 280, 169
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 284, 116
+  size: 139, 138
+  orig: 139, 138
+  offset: 0, 0
+  index: -1
+tuimao
+  rotate: true
+  xy: 329, 88
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+ty
+  rotate: false
+  xy: 425, 164
+  size: 174, 90
+  orig: 174, 90
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 2, 2
+  size: 81, 85
+  orig: 81, 85
+  offset: 0, 0
+  index: -1
+xiaba
+  rotate: false
+  xy: 883, 194
+  size: 84, 60
+  orig: 84, 60
+  offset: 0, 0
+  index: -1
